@@ -1,0 +1,23 @@
+{
+  "name": "azure-devops-pat-manager",
+  "version": "1.0.0",
+  "description": "Tool for CRUD operations on Azure DevOps personal access tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mromanch/azure-devops-pat-manager.git"
+  },
+  "author": "mromanch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mromanch/azure-devops-pat-manager/issues"
+  },
+  "homepage": "https://github.com/mromanch/azure-devops-pat-manager#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
