@@ -2,6 +2,9 @@
   "markdownlint.customRules": [
     "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
 ],
+"[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
 "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
